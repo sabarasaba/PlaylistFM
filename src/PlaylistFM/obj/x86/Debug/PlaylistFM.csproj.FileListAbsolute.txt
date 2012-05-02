@@ -1,0 +1,17 @@
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\bin\Debug\PlaylistFM.exe
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\bin\Debug\PlaylistFM.pdb
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\bin\Debug\MahApps.Metro.dll
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\bin\Debug\System.Windows.Interactivity.dll
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\MainWindow.baml
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\Resources\Icons.baml
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\MainWindow.g.cs
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\App.g.cs
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\PlaylistFM_MarkupCompile.cache
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\PlaylistFM.g.resources
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\PlaylistFM.Properties.Resources.resources
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\PlaylistFM.exe
+c:\users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\obj\x86\Debug\PlaylistFM.pdb
+C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\bin\Debug\taglib-sharp.dll

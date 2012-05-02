@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="82ca9d77-c2bd-47a2-9843-318967a85306" name="ignacio@ARWEN 2012-05-02 16:16:47" runUser="arwen\ignacio" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="43b39243-63e3-48f4-af16-2473fcec4e2d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="ignacio_ARWEN 2012-05-02 16_16_47">
+      <DeploymentItem filename="C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\bin\Release\PlaylistFM.exe" />
+      <DeploymentItem filename="C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\packages\MahApps.Metro.0.7.9.59-ALPHA\lib\net40\System.Windows.Interactivity.dll" />
+      <DeploymentItem filename="C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\packages\MahApps.Metro.0.7.9.59-ALPHA\lib\net40\MahApps.Metro.dll" />
+      <DeploymentItem filename="C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM\Resources\taglib-sharp.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-02T16:16:47.2277000-03:00" queuing="2012-05-02T16:16:50.6407000-03:00" start="2012-05-02T16:16:50.7567000-03:00" finish="2012-05-02T16:16:52.5737000-03:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="isValidArtistTest" storage="c:\users\ignacio\documents\visual studio 2010\projects\playlistfm\playlistfm.tests\bin\release\playlistfm.tests.dll" id="f7cd9537-2244-d7b1-8ec9-6a8e51a917ac">
+      <Execution id="1870fef4-ed6a-457a-9b5f-a823bf9704f1" />
+      <TestMethod codeBase="C:/Users/ignacio/documents/visual studio 2010/Projects/PlaylistFM/PlaylistFM.Tests/bin/Release/PlaylistFM.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="PlaylistFM.Tests.LastFMConnectorTest, PlaylistFM.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="isValidArtistTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f7cd9537-2244-d7b1-8ec9-6a8e51a917ac" executionId="1870fef4-ed6a-457a-9b5f-a823bf9704f1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1870fef4-ed6a-457a-9b5f-a823bf9704f1" testId="f7cd9537-2244-d7b1-8ec9-6a8e51a917ac" testName="isValidArtistTest" computerName="ARWEN" duration="00:00:01.3032494" startTime="2012-05-02T16:16:50.7807000-03:00" endTime="2012-05-02T16:16:52.5137000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1870fef4-ed6a-457a-9b5f-a823bf9704f1">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at PlaylistFM.Tests.LastFMConnectorTest.isValidArtistTest() in C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM.Tests\LastFMConnectorTest.cs:line 95
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

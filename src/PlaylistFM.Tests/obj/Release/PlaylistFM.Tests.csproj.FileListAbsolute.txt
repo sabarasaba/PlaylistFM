@@ -1,0 +1,10 @@
+C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM.Tests\bin\Release\PlaylistFM.Tests.dll
+C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM.Tests\bin\Release\PlaylistFM.Tests.pdb
+C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM.Tests\bin\Release\MahApps.Metro.dll
+C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM.Tests\bin\Release\PlaylistFM.exe
+C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM.Tests\bin\Release\System.Windows.Interactivity.dll
+C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM.Tests\bin\Release\taglib-sharp.dll
+C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM.Tests\bin\Release\PlaylistFM.pdb
+C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM.Tests\obj\Release\PlaylistFM.Tests.dll
+C:\Users\ignacio\documents\visual studio 2010\Projects\PlaylistFM\PlaylistFM.Tests\obj\Release\PlaylistFM.Tests.pdb

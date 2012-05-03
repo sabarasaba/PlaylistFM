@@ -3,7 +3,7 @@
 
 ![Screenshot](http://dl.dropbox.com/u/8474936/header2.png)
 
-Its a very simple app, it allows you to create a playlist of an artist based in the top charts of lastfm from that artist. It provides a nice and clean metro UI which is based in the awesome work of [this fellas](http://nuget.org/packages/MahApps.Metro). It also uses the [taglib-sharp library](http://download.banshee.fm/taglib-sharp/) to read the the ID3/2 tag from the media files.
+This is a very simple app, it allows you to create a playlist of an artist based on their respective top charts from lastfm. It provides a nice and clean metro UI which is based in the awesome work of [this fellas](http://nuget.org/packages/MahApps.Metro). It also uses the [taglib-sharp library](http://download.banshee.fm/taglib-sharp/) to read the the metadata of the media files.
 
 Author
 -------
